@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hey, I'm dr_r00t3r👋</h1>
+<h3 align="center">A Fun Developer</h3>
+
+![준환's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-r00t3r&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
