@@ -21,8 +21,3 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-r00t3r&layout=compact&card_width=445)](https://github.com/dr-r00t3r/dr-r00t3r)
-
-<!-- [![tortoise-orm](https://github-readme-stats.vercel.app/api/pin/?username=tortoise&repo=tortoise-orm)](https://github.com/tortoise/tortoise-orm)&emsp;[![aerich](https://github-readme-stats.vercel.app/api/pin/?username=tortoise&repo=aerich)](https://github.com/tortoise/aerich)
-
-[![fastapi-admin](https://github-readme-stats.vercel.app/api/pin/?username=fastapi-admin&repo=fastapi-admin)](https://github.com/fastapi-admin/fastapi-admin)&emsp;
- -->
