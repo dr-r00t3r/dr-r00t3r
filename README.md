@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-r00t3r&layout=compact&card_width=445)](https://github.com/dr-r00t3r/dr-r00t3r)
 
 ## 🔭 I’m currently working :
-I'm developer and security researcher in the ravro | bug bounty platform.
+I'm A Fun developer.
 
 ## 🌱 Open Source Contribution Github/Gitlab?
 -
