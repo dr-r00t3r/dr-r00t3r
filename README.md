@@ -4,7 +4,7 @@
 ![mattn's github stats](https://github-readme-stats.vercel.app/api?username=dr-r00t3r&show_icons=true&count_private=true&line_height=40)
 
 
-    Developer • Penetration Tester • Blockchain enthusiast 
+    Develop •  Electronic •    
 
 ❯ 🏡 Website           drr00t3r.ir/
 ❯ 📬 Email             drr000t3r@gmail.com
