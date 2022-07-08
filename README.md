@@ -7,8 +7,11 @@
     Develop •  Electronic •    
 
 ❯ 🏡 Website           drr00t3r.ir/
+
 ❯ 📬 Email             drr000t3r@gmail.com
+
 ❯ 🐦 Twitter           @dr_r00t3r_
+
 ❯ 📱 Linkdin           linkedin.com/in/milad-gilani-3655a1141/
 ```
 ---
