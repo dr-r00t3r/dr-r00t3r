@@ -2,7 +2,7 @@
 # dr-r00t3r
 
 <p align="left">
-	<img alt="Waving Hi" height="150px" style="border-radius:5%;border:1px solid cyan" src="assets/hi.webp" />
+	<img alt="Waving Hi" height="150px" style="border-radius:5%;border:1px solid cyan" src="hi.webp" />
 </p>
 
 [![Awesomess](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Webplicity/transferable-context-aware-vr)
